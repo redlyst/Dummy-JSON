@@ -1,0 +1,25 @@
+{
+  "periperal": [
+    {
+      "no": 1,
+      "kode": "IT001",
+      "nama": "Mouse",
+      "jumlah": "15",
+      "min_qty": "5"
+    },
+    {
+      "no": 2,
+      "kode": "IT002",
+      "nama": "Keyboard",
+      "jumlah": "12",
+      "min_qty": "5"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username" : "admin",
+      "password" : "password"
+    }
+  ]
+}
