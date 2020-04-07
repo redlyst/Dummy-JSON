@@ -1,7 +1,7 @@
 # Dummy-JSON-Server
 ## Running URL
 
-https://my-json-server.typicode.com/redlyst/Dummy-JSON
+https://my-json-server.typicode.com/mh-akbaar/Dummy-JSON
 
 ## Source and References
 
