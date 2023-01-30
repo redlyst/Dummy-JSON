@@ -1,4 +1,5 @@
 [
+   "periperal": [
     {
       "no": 1,
       "kode": "IT001",
@@ -13,4 +14,5 @@
       "jumlah": "12",
       "min_qty": "5"
     }
+ ]
 ]
